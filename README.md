@@ -50,7 +50,7 @@ Welcome to the **CryptoBond Frontend**! This repository contains the user interf
 ```
 ---
 
-3.  **Configure TronWed:**
+3.  **Configure TronWeb:**
 
 
 Update the ****src/App.js**** file with your smart contract address and any other necessary configurations
@@ -73,15 +73,15 @@ Update the ****src/App.js**** file with your smart contract address and any othe
 
 ```sh
     npm start
-
+```
 5. **Open in your browser to interact with the platform**:
 
----
 ```sh
 http://localhost:3000
 ```
 ---
-6. **Usage**
+
+### Usage
 
 1. Connect Wallet: Users connect their Tron wallet (e.g., TronLink) to the CryptoBond platform.
 
@@ -89,7 +89,7 @@ http://localhost:3000
 
 3. View Results: Users can see the outcome of their bets and their updated balance.
 
-7. **Contributing**
+### Contributing
 
 - *We welcome contributions to CryptoBond! To contribute:*
 
@@ -109,4 +109,4 @@ For any questions or inquiries, please contact:
 
 - **QuantForge**
   - [GitHub](https://github.com/QuantForge) or [Johnstone Gikenye](https://github.com/gikenye)
-  - Email: quantforg@gmail.com
+  - [Email]: quantforg@gmail.com
